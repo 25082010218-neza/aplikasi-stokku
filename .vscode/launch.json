@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Stokku Desktop (Windows)",
+      "request": "launch",
+      "type": "dart",
+      "cwd": "flutter_app",
+      "program": "lib/main.dart",
+      "args": [
+        "-d",
+        "windows"
+      ]
+    },
+    {
+      "name": "Stokku API Server",
+      "request": "launch",
+      "type": "dart",
+      "cwd": "dart_api",
+      "program": "bin/server.dart"
+    }
+  ]
+}

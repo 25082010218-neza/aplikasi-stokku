@@ -1,0 +1,15 @@
+name: stokku_api
+description: REST API Dart untuk Stokku dan MySQL.
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  mysql1: ^0.20.0
+  shelf: ^1.4.2
+  shelf_router: ^1.1.4
+
+dev_dependencies:
+  lints: ^4.0.0
