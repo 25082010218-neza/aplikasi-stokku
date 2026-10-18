@@ -1,3 +1,10 @@
+Identitas Kelompok 1 Alfatihah
+1. Neza Aulia Putri (25082010218)
+2. Keisy Rahmawan (25082010239)
+3. Fashya Nadhifa Arsky (25082010209)
+4. Caraka Bertasbihah (25082010231)
+
+
 # Stokku — Aplikasi Inventaris & Penjualan (Desktop Suite)
 
 Stokku adalah aplikasi inventaris, penjualan, dan pemantauan keuntungan untuk usaha retail ("Toko Kelontong Berkah").
